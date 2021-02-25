@@ -1,2 +1,2 @@
 # Geospatial-Analysis
-Tutorial of Geospatial-Analysis from Kaggle course
+Tutorial of Geospatial analysis from Kaggle course
